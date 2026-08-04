@@ -1,5 +1,5 @@
 
-public class Main {
+public class weeklyprogress {
 
     public static void main(String[] args) {
 

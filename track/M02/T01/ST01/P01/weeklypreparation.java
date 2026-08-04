@@ -1,5 +1,5 @@
 
-public class Main {
+public class weeklypreparation {
 
     public static void main(String[] args) {
         int javaHoursPerDay = 2;

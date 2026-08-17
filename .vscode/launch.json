@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ScoreEditor1",
+            "request": "launch",
+            "mainClass": "ScoreEditor1",
+            "projectName": "KodNest-Java_f53a0b55"
+        },
+        {
+            "type": "java",
+            "name": "ScoreEditor",
+            "request": "launch",
+            "mainClass": "ScoreEditor",
+            "projectName": "KodNest-Java_f53a0b55"
+        },
+        {
+            "type": "java",
             "name": "scoreInReverse",
             "request": "launch",
             "mainClass": "scoreInReverse",

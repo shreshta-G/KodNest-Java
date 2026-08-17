@@ -5,6 +5,41 @@
     "version": "0.2.0",
     "configurations": [
         {
+            "type": "java",
+            "name": "scoreInReverse",
+            "request": "launch",
+            "mainClass": "scoreInReverse",
+            "projectName": "KodNest-Java_f53a0b55"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "KodNest-Java_f53a0b55"
+        },
+        {
+            "type": "java",
+            "name": "whileloop",
+            "request": "launch",
+            "mainClass": "whileloop",
+            "projectName": "KodNest-Java_f53a0b55"
+        },
+        {
+            "type": "java",
+            "name": "studentApplication",
+            "request": "launch",
+            "mainClass": "studentApplication",
+            "projectName": "KodNest-Java_f53a0b55"
+        },
+        {
+            "type": "java",
+            "name": "practicereport",
+            "request": "launch",
+            "mainClass": "practicereport",
+            "projectName": "KodNest-Java_f53a0b55"
+        },
+        {
             "type": "jdk",
             "request": "launch",
             "name": "Launch Java App"

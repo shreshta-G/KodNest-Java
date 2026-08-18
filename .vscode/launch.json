@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ArrayMutationTracker",
+            "request": "launch",
+            "mainClass": "Array.ArrayMutationTracker",
+            "projectName": "KodNest-Java_f53a0b55"
+        },
+        {
+            "type": "java",
+            "name": "Array",
+            "request": "launch",
+            "mainClass": "Array.Array",
+            "projectName": "KodNest-Java_f53a0b55"
+        },
+        {
+            "type": "java",
             "name": "MaxElement",
             "request": "launch",
             "mainClass": "Array.MaxElement",

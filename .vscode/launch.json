@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "FirstMatch",
+            "request": "launch",
+            "mainClass": "FirstMatch",
+            "projectName": "KodNest-Java_f53a0b55"
+        },
+        {
+            "type": "java",
             "name": "ReplaceMatchingValues",
             "request": "launch",
             "mainClass": "ReplaceMatchingValues",

@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "analyseruntimedata",
+            "request": "launch",
+            "mainClass": "Array.analyseruntimedata",
+            "projectName": "KodNest-Java_f53a0b55"
+        },
+        {
+            "type": "java",
+            "name": "analyzeruntimedata",
+            "request": "launch",
+            "mainClass": "Array.analyzeruntimedata",
+            "projectName": "KodNest-Java_f53a0b55"
+        },
+        {
+            "type": "java",
             "name": "ScoreEditor1",
             "request": "launch",
             "mainClass": "ScoreEditor1",

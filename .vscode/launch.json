@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "MaxElement",
+            "request": "launch",
+            "mainClass": "Array.MaxElement",
+            "projectName": "KodNest-Java_f53a0b55"
+        },
+        {
+            "type": "java",
             "name": "analyseruntimedata",
             "request": "launch",
             "mainClass": "Array.analyseruntimedata",

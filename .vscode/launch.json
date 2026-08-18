@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ReplaceMatchingValues",
+            "request": "launch",
+            "mainClass": "ReplaceMatchingValues",
+            "projectName": "KodNest-Java_f53a0b55"
+        },
+        {
+            "type": "java",
+            "name": "replaceMatchingValues",
+            "request": "launch",
+            "mainClass": "replaceMatchingValues",
+            "projectName": "KodNest-Java_f53a0b55"
+        },
+        {
+            "type": "java",
+            "name": "FirstMatch",
+            "request": "launch",
+            "mainClass": "Array.FirstMatch",
+            "projectName": "KodNest-Java_f53a0b55"
+        },
+        {
+            "type": "java",
             "name": "FreqCount",
             "request": "launch",
             "mainClass": "Array.FreqCount",

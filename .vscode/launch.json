@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "FreqCount",
+            "request": "launch",
+            "mainClass": "Array.FreqCount",
+            "projectName": "KodNest-Java_f53a0b55"
+        },
+        {
+            "type": "java",
+            "name": "FrequencyReport",
+            "request": "launch",
+            "mainClass": "Array.FrequencyReport",
+            "projectName": "KodNest-Java_f53a0b55"
+        },
+        {
+            "type": "java",
             "name": "Search",
             "request": "launch",
             "mainClass": "Array.Search",

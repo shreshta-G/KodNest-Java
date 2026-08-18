@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Search",
+            "request": "launch",
+            "mainClass": "Array.Search",
+            "projectName": "KodNest-Java_f53a0b55"
+        },
+        {
+            "type": "java",
             "name": "ArrayMutationTracker",
             "request": "launch",
             "mainClass": "Array.ArrayMutationTracker",

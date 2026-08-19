@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "MatrixTotal",
+            "request": "launch",
+            "mainClass": "MatrixTotal",
+            "projectName": "KodNest-Java_f53a0b55"
+        },
+        {
+            "type": "java",
+            "name": "Matrixtotal",
+            "request": "launch",
+            "mainClass": "Matrixtotal",
+            "projectName": "KodNest-Java_f53a0b55"
+        },
+        {
+            "type": "java",
+            "name": "MatrixTotalixTotal",
+            "request": "launch",
+            "mainClass": "MatrixTotalixTotal",
+            "projectName": "KodNest-Java_f53a0b55"
+        },
+        {
+            "type": "java",
             "name": "array3D",
             "request": "launch",
             "mainClass": "array3D",

@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "array3D",
+            "request": "launch",
+            "mainClass": "array3D",
+            "projectName": "KodNest-Java_f53a0b55"
+        },
+        {
+            "type": "java",
             "name": "Matrix",
             "request": "launch",
             "mainClass": "Matrix",

@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ArrayProblemSolvingCheckPoint",
+            "request": "launch",
+            "mainClass": "ArrayProblemSolvingCheckPoint",
+            "projectName": "KodNest-Java_f53a0b55"
+        },
+        {
+            "type": "java",
+            "name": "ArrayProblemSolvingCheckpoint",
+            "request": "launch",
+            "mainClass": "ArrayProblemSolvingCheckpoint",
+            "projectName": "KodNest-Java_f53a0b55"
+        },
+        {
+            "type": "java",
+            "name": "MonthlySalesReport",
+            "request": "launch",
+            "mainClass": "MonthlySalesReport",
+            "projectName": "KodNest-Java_f53a0b55"
+        },
+        {
+            "type": "java",
             "name": "CinemaSeatAnalyzer",
             "request": "launch",
             "mainClass": "CinemaSeatAnalyzer",

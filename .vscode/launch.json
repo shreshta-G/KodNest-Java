@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Matrix",
+            "request": "launch",
+            "mainClass": "Matrix",
+            "projectName": "KodNest-Java_f53a0b55"
+        },
+        {
+            "type": "java",
             "name": "TwoDarray",
             "request": "launch",
             "mainClass": "TwoDarray",

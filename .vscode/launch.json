@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "TwoDarray",
+            "request": "launch",
+            "mainClass": "TwoDarray",
+            "projectName": "KodNest-Java_f53a0b55"
+        },
+        {
+            "type": "java",
             "name": "FirstMatch",
             "request": "launch",
             "mainClass": "FirstMatch",

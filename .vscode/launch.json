@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "DailyAttendance",
+            "request": "launch",
+            "mainClass": "DailyAttendance",
+            "projectName": "KodNest-Java_f53a0b55"
+        },
+        {
+            "type": "java",
             "name": "ArrayProblemSolvingCheckPoint",
             "request": "launch",
             "mainClass": "ArrayProblemSolvingCheckPoint",
